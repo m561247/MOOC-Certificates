@@ -58,3 +58,5 @@ Usual machine learning methods in practice, with well-designed programming assig
 2014.12.23 - 2015.2.24, 8 weeks
 
 A much deeper machine learning course, which covers a number of classical machine learning models: SVM (with and without kernels, hard and soft margins), decision tree (random forests), adaboost, neural networks. This course has **much more math** than Andrew Ng's (some say that Andrew's course isn't even enough as a prerequisite...). It also requires you to code up some of the important algorithms by yourself so that you get some handful practice. This course has the same content as the second half of the ML course on campus at NTU. The first half is offered as another course in Coursera - 'Machine Learning Foundations'.
+
+[https://www.coursera.org/course/ntumltwo](https://www.coursera.org/course/ntumltwo)
