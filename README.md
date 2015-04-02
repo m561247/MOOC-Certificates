@@ -65,3 +65,5 @@ A much deeper machine learning course, which covers a number of classical machin
 2015.1.19 - 2015.3.15, 6 weeks
 
 The first half of the Stanford CS161 course. It covers several well-known algorithms like quicksort and Dijkstra's shortest path. This course focuses on proving the correctness and deriving the running time of an algorithm instead of teaching you how to code it up hand by hand.
+
+[https://www.coursera.org/course/algo](https://www.coursera.org/course/algo)
