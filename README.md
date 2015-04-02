@@ -60,3 +60,8 @@ Usual machine learning methods in practice, with well-designed programming assig
 A much deeper machine learning course, which covers a number of classical machine learning models: SVM (with and without kernels, hard and soft margins), decision tree (random forests), adaboost, neural networks. This course has **much more math** than Andrew Ng's (some say that Andrew's course isn't even enough as a prerequisite...). It also requires you to code up some of the important algorithms by yourself so that you get some handful practice. This course has the same content as the second half of the ML course on campus at NTU. The first half is offered as another course in Coursera - 'Machine Learning Foundations'.
 
 [https://www.coursera.org/course/ntumltwo](https://www.coursera.org/course/ntumltwo)
+
+#### Algorithms: Design and Analysis, Part 1 - Stanford
+2015.1.19 - 2015.3.15, 6 weeks
+
+The first half of the Stanford CS161 course. It covers several well-known algorithms like quicksort and Dijkstra's shortest path. This course focuses on proving the correctness and deriving the running time of an algorithm instead of teaching you how to code it up hand by hand.
